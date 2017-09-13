@@ -1,11 +1,14 @@
+# Traducao_Brasil_Laravel_5.5
+
 # laravel_language_pt_br (Laravel 5.5)
+
 Repositório com tradução para Português (Pt-BR)
 
-1 - Baixe os arquivos;
+* Baixe os arquivos;
 
-2 - Copie a pasta pt-br para ../resources/lang/
+* Copie a pasta pt-br para ../resources/lang/
 
-3 - Altere o arquivo ../config/app.php as linhas...
+* Altere o arquivo ../config/app.php as linhas...
 
 Linha 81:      'locale' => 'en', 
           para 'locale' => 'pt-br',
